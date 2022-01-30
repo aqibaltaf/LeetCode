@@ -1,3 +1,5 @@
+<h2><a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/">2114. Maximum Number of Words Found in Sentences</a></h2><h3>Easy</h3>
+
 <p>A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
 
 You are given an array of strings sentences, where each sentences[i] represents a single sentence.
@@ -6,7 +8,7 @@ Return the maximum number of words that appear in a single sentence.</p>
 
  
 
-<h2>Example 1:</h2?
+<h2>Example 1:</h2>
 
 Input: sentences = ["alice and bob love leetcode", "i think so too", "this is great thanks very much"]
 Output: 6
