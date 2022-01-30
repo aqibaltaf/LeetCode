@@ -1,12 +1,12 @@
-A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
+<p>A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
 
 You are given an array of strings sentences, where each sentences[i] represents a single sentence.
 
-Return the maximum number of words that appear in a single sentence.
+Return the maximum number of words that appear in a single sentence.</p>
 
  
 
-Example 1:
+<h2>Example 1:</h2?
 
 Input: sentences = ["alice and bob love leetcode", "i think so too", "this is great thanks very much"]
 Output: 6
@@ -23,7 +23,7 @@ Explanation: It is possible that multiple sentences contain the same number of w
 In this example, the second and third sentences (underlined) have the same number of words.
  
 
-Constraints:
+<h2>Constraints:</h2>
 
 1 <= sentences.length <= 100
 1 <= sentences[i].length <= 100
