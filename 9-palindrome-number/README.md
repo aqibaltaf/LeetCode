@@ -25,7 +25,7 @@
 
 <pre><strong>Input:</strong> x = 10
 <strong>Output:</strong> false
-<strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.
+<strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome. 
 </pre>
 
 <p>&nbsp;</p>
